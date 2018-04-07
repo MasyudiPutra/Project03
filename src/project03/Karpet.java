@@ -1,9 +1,9 @@
 package project03;
 
 public class Karpet {
-    String merk;
-    String warna;
-    double harga;
+    private String merk;
+    private String warna;
+    private double harga;
     
     void cetakinfo(){
         System.out.println("Merk Karpet \t: "+merk+"\n"+
