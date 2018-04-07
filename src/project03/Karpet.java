@@ -7,8 +7,8 @@ public class Karpet {
     
     void cetakinfo(){
         System.out.println("Merk Karpet \t: "+merk+"\n"+
-                 "Warna Karpet \t "+warna+"\n"+
-                 "Harga Karpet \t "+harga);
+                 "Warna Karpet \t: "+warna+"\n"+
+                 "Harga Karpet \t: "+harga);
     }
 
     public String getMerk() {
